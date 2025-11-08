@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q8#(ki=!1+bko+i^^%xau9zmq)fv+_^(%x=!b9318fml$r*k0$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["chat-app-auth.onrender.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
